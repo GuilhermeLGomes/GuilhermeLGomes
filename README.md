@@ -55,3 +55,4 @@ Estou focado em evoluir na área de desenvolvimento e sou apaixonado por Técnol
 <br/>
 .
 
+  ![Snake animation](https://github.com/GuilhermeLGomes/GuilhermeLGomes/blob/output/github-contribution-grid-snake.svg)
