@@ -41,7 +41,7 @@ Procuro sempre evoluir seja como pessoa e na área profissional. Sou muito apaix
  Link: https://meuprimeirowebsite.netlify.app
 <br/>----------------------------------------------------<br/>
 . Project - Site with Flexbox and Semantic HTML<br/>
- Link: medicenterflexivelsemantic.netlify.app
+ Link: https://medicenterflexivelsemantic.netlify.app
 <br/>----------------------------------------------------<br/>
 .BLOG Portal (HTML,CSS,JAVASCRIPT) <br/>
  Link: https://portalblog.netlify.app
