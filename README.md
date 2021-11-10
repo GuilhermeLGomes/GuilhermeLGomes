@@ -12,7 +12,7 @@
 
 
 
-## Tecnologias que eu uso no meu dia.
+## Tecnologias que eu uso no meu dia / Technologies I use in my day.
 
 <div style="display:block"><br/>
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -25,34 +25,26 @@
 
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs">
 
- <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
-
- <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-
- <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js">
-
- <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
-
- <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-
- <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
-
- <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
 </div><br/>
 
-Possuo 32 anos e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
-Sou autodidata e possuo rápido aprendizado, focado em resolver problemas e criar soluções, me adapto com facilidade, me considero uma pessoa inovadora e descontraída. Além disso, procuro estar sempre atualizado às novas tecnologias do mercado.
-Estou focado em evoluir na área de desenvolvimento e sou apaixonado por Técnologia e desejo evoluir cada dia mais.
+Tenho 32 anos e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
+Sou autodidata e possuo rápido aprendizado, sou focado em resolver problemas e criar soluções, me adapto com facilidade , me considero uma pessoa inovadora e descontraída. Além disso, procuro estar sempre atualizado às novas tecnologias do mercado.
+Procuro sempre evoluir seja como pessoa e na área profissional. Sou muito apaixonado por Técnologia.
 <br/>
 <br/>
 
-## Últimos notícias:
-. 
+## Projetos pessoais / Personal work:
+. Beauty Salon (Responsive) (HTML/CSS/JavaScript)<br/>
+ Link: https://beautysalonresponsive.netlify.app
+ <br/>----------------------------------------------------<br/>
+. My First Web Site (PURE HTML) Front-end Challenge <br/>
+ Link: https://meuprimeirowebsite.netlify.app
+<br/>----------------------------------------------------<br/>
+. Project - Site with Flexbox and Semantic HTML<br/>
+ Link: medicenterflexivelsemantic.netlify.app
+<br/>----------------------------------------------------<br/>
+.BLOG Portal (HTML,CSS,JAVASCRIPT) <br/>
+ Link: https://portalblog.netlify.app
 <br/>
-.
-<br/>
-.
-<br/>
-.
 
-  ![Snake animation](https://github.com/GuilhermeLGomes/GuilhermeLGomes/blob/output/github-contribution-grid-snake.svg)
+
