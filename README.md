@@ -20,9 +20,9 @@
 -------------------------------------------------------------------
 </div><br/>
 Tenho 32 anos e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
-Sou autodidata e possuo rápido aprendizado, sou focado em resolver problemas e criar soluções, me adapto com facilidade , me considero uma pessoa inovadora e descontraída. Além disso, procuro estar sempre atualizado às novas tecnologias do mercado.
-Procuro sempre evoluir seja como pessoa e na área profissional. Sou muito apaixonado por Técnologia.
-<br/>
+Apaixonado por tecnologia e inovação, e por ser curioso decidi entrar nesse universo, atualmente estou focado em desenvolvimento web na tecnologia React.
+Sou autodidata também sou focado em resolver problemas e criar soluções, me adapto com facilidade , me considero uma pessoa inovadora e descontraída. Além disso, procuro estar sempre atualizado às novas tecnologias do mercado.
+Procuro sempre evoluir seja como pessoa e como profissional. 
 <br/>
 
 
